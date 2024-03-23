@@ -17,7 +17,7 @@
         </body>
     </html>
 
-[Ссылка на README.md](HELP.md)
+[Ссылка на README.md](README.md)
 
 **Синтаксис URL и изображений:**
 
